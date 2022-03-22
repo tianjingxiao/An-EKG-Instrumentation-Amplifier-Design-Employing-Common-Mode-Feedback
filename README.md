@@ -1,4 +1,4 @@
-# An-EKG-Instrumentation-Amplifier-Design-Employing-Common-Mode-Feedback
+# An EKG Instrumentation Amplifier Design Employing Common Mode Feedback
 
 This my project when I had course at UCSD
 Oct 2020 - Dec 2020
