@@ -3,7 +3,7 @@
 This my project when I had course at UCSD
 Oct 2020 - Dec 2020
 
-The report is named as <An instrumentation amplifier design using common-mode feedback>
+The report is named as "An instrumentation amplifier design using common-mode feedback"
   
 ● Build and simulate the amplifier with driven-right-leg feedback to reduce the effects of common-mode noise; measure performance includes gain, CMRR, and mismatch with ideal op-amp models in Cadence (0.18μm CMOS Process).
 
